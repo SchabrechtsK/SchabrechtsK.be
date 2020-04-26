@@ -2,3 +2,6 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "SchabrechtsK"
 theme = "ananke"
+
+[params]
+    show_reading_time = true
