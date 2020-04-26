@@ -7,6 +7,7 @@ url: /development/developers-and-their-side-project/
 featured_image: /wp-content/uploads/2013/12/Black-and-silver-laptop-computer-on-table-scaled.jpg
 categories:
   - Development
+tags: []
 
 ---
 Side-projects, they have always been a point of discussion amongst developers. To have one or not to have one. In this post I’ll be discussing what a side-project exactly is, for those who do not know. I’ll also write about why you should have a side-project and how you could use them to your advantage. Let us get started.

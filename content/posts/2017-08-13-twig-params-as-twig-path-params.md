@@ -7,6 +7,7 @@ url: /development/twig-params-as-twig-path-params/
 featured_image: /wp-content/uploads/2017/08/1XubqkYXDtHE0bDNYnAmsuA.jpeg
 categories:
   - Development
+tags: []
 
 ---
 When our current project started we were tasked to create a BaseCrudController. Since we were going to use a lot of basic CRUD actions in the beginning of the project.

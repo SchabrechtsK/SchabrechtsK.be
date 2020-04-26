@@ -7,6 +7,7 @@ url: /personal-development/digital-detox-my-own-meandering-experience/
 featured_image: /wp-content/uploads/2017/10/17-zfbKnV5j4RhESdTnmiJg.jpeg
 categories:
   - Personal Development
+tags: []
 
 ---
 <p id="1974" class="graf graf--p graf-after--figure">

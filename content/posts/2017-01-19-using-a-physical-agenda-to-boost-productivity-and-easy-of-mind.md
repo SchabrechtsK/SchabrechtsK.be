@@ -7,6 +7,7 @@ url: /personal-development/using-a-physical-agenda-to-boost-productivity-and-eas
 featured_image: /wp-content/uploads/2017/01/estee-janssens-aQfhbxailCs-unsplash-scaled.jpg
 categories:
   - Personal Development
+tags: []
 
 ---
 <p id="8fe8" class="graf graf--p graf-after--figure">

@@ -11,6 +11,7 @@ reading_time:
   - 
 categories:
   - Personal Development
+tags: []
 
 ---
 <p id="8c94" class="graf graf--p graf--leading">

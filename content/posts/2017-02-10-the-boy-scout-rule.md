@@ -7,6 +7,7 @@ url: /development/the-boy-scout-rule/
 featured_image: /wp-content/uploads/2017/02/1D18D6IY40HmcCkGvAHQhVA.jpeg
 categories:
   - Development
+tags: []
 
 ---
 <p id="60ea" class="graf graf--p graf-after--figure">

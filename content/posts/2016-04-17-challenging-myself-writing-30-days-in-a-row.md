@@ -7,6 +7,7 @@ url: /personal-development/challenging-myself-writing-30-days-in-a-row/
 featured_image: /wp-content/uploads/2016/04/1UrYsF-FR-ekuU3tM36-2bg.jpeg
 categories:
   - Personal Development
+tags: []
 
 ---
 <p id="4981" class="graf graf--p graf-after--figure">

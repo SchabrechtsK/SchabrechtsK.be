@@ -8,6 +8,7 @@ url: /freelancing/7-reasons-why-i-build-my-own-website/
 featured_image: /wp-content/uploads/2019/11/patrik-michalicka-r3iAqHb7JWs-unsplash-scaled.jpg
 categories:
   - Freelancing
+tags: []
 
 ---
  

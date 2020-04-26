@@ -7,6 +7,7 @@ url: /personal-development/forget-resolutions-living-happy-one-goal-at-a-time/
 featured_image: /wp-content/uploads/2017/01/14WVz7Fo3P04NxTOs2eSRYg.jpeg
 categories:
   - Personal Development
+tags: []
 
 ---
 <p id="3637" class="graf graf--p graf-after--figure">

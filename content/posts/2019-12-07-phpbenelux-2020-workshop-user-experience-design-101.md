@@ -7,6 +7,7 @@ url: /announcements/phpbenelux-2020-workshop-user-experience-design-101/
 featured_image: /wp-content/uploads/2019/12/Untitled-Design.jpg
 categories:
   - Announcements
+tags: []
 
 ---
 I&#8217;m delighted to announce that I will be giving a workshop on User Experience Design at PHPBenelux 2020.

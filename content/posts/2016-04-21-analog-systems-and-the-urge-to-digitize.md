@@ -7,6 +7,7 @@ url: /personal-development/analog-systems-and-the-urge-to-digitize/
 featured_image: /wp-content/uploads/2016/04/1dlN-vF1YJ7ZpOrx8rOGBEQ.jpeg
 categories:
   - Personal Development
+tags: []
 
 ---
 <p id="1880" class="graf graf--p graf-after--figure">

@@ -7,6 +7,7 @@ url: /personal-development/1001-ideas-let-s-take-some-action/
 featured_image: /wp-content/uploads/2018/10/13sGDM9JBYrNWQ0ChfP68LA.jpeg
 categories:
   - Personal Development
+tags: []
 
 ---
 <p id="ebf9" class="graf graf--p graf-after--figure">

@@ -7,6 +7,7 @@ url: /meetups-conferences/php-limburg-the-talk-proposal-survey/
 featured_image: /wp-content/uploads/2017/02/1FH7dIB5IHLxS5MDH1QfLdw.png
 categories:
   - 'Meetups &amp; Conferences'
+tags: []
 
 ---
 <p id="14c0" class="graf graf--p graf-after--figure">

@@ -9,6 +9,7 @@ categories:
   - UX/UI
 tags:
   - Show Case
+tags: []
 
 ---
 To build this site I used my User Experience Design training to determine what I exactly needed to build.  
