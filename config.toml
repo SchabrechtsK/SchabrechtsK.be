@@ -3,5 +3,28 @@ languageCode = "en-us"
 title = "SchabrechtsK"
 theme = "ananke"
 
+SectionPagesMenu = "main"
+Paginate = 9
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[author]
+    name = "Kenneth Schabrechts"
+
 [params]
-    show_reading_time = true
+  favicon = "/images/favicon.png"
+  description = "Independent software developer & Technical Lead"
+  facebook = "https://www.facebook.com/SchabrechtsK/"
+  twitter = "https://twitter.com/schabrechtsk"
+  instagram = "https://www.instagram.com/schabrechtsk/"
+  youtube = "https://www.youtube.com/channel/UCEJxHRVVF3bLrv6XANtcPbQ"
+  github = "https://github.com/SchabrechtsK"
+  linkedin = "https://www.linkedin.com/in/schabrechtsk/"
+  background_color_class = "bg-black"
+  featured_image = "/images/hero.png"
+  recent_posts_number = 4
+  show_reading_time = true
