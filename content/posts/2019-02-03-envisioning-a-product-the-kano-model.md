@@ -8,6 +8,7 @@ featured_image: /wp-content/uploads/2019/02/111CHSD4bkvNQseYaWPrTrQ.jpeg
 categories:
   - UX/UI
 tags: []
+summary: ''
 
 ---
 <p id="b2b6" class="graf graf--p graf-after--figure">

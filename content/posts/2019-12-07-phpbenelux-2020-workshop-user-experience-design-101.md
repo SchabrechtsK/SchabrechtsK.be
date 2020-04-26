@@ -8,6 +8,7 @@ featured_image: /wp-content/uploads/2019/12/Untitled-Design.jpg
 categories:
   - Announcements
 tags: []
+summary: ''
 
 ---
 I&#8217;m delighted to announce that I will be giving a workshop on User Experience Design at PHPBenelux 2020.

@@ -8,6 +8,7 @@ featured_image: /wp-content/uploads/2016/04/1Xusy3o2TtvUwmk-R63mRtw.jpeg
 categories:
   - Personal Development
 tags: []
+summary: ''
 
 ---
 <p id="ae40" class="graf graf--p graf-after--figure">

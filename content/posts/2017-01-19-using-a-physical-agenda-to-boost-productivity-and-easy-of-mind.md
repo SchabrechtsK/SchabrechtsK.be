@@ -8,6 +8,7 @@ featured_image: /wp-content/uploads/2017/01/estee-janssens-aQfhbxailCs-unsplash-
 categories:
   - Personal Development
 tags: []
+summary: ''
 
 ---
 <p id="8fe8" class="graf graf--p graf-after--figure">

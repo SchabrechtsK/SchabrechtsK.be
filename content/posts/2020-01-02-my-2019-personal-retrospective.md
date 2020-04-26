@@ -8,6 +8,7 @@ featured_image: /wp-content/uploads/2020/01/hugo-rocha-qFpnvZ_j9HU-unsplash-scal
 categories:
   - Personal Development
 tags: []
+summary: ''
 
 ---
 Around this time I always see a lot of people creating new posts about their previous year. In my quest for creating more content, I wanted to create that kind of post as well. But I wanted it to be different. So I&#8217;m doing a 2019 personal retrospective.

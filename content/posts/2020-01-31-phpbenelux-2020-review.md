@@ -8,6 +8,7 @@ featured_image: /wp-content/uploads/2019/12/Untitled-Design.jpg
 categories:
   - 'Meetups &amp; Conferences'
 tags: []
+summary: ''
 
 ---
 Another year, another PHPBenelux. This year, on the 24th and the 25th of January, it was the 11th edition. 

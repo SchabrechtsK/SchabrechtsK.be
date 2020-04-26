@@ -8,6 +8,7 @@ featured_image: /wp-content/uploads/2016/12/1lRxHIeTWmlSvXWJtNC-EwQ.jpeg
 categories:
   - Development
 tags: []
+summary: ''
 
 ---
 <p id="1499" class="graf graf--p graf-after--figure">

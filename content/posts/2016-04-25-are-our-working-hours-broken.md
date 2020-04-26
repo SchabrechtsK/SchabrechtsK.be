@@ -8,6 +8,7 @@ featured_image: /wp-content/uploads/2016/04/1_NKfDrWhXol7-7BUx5miIQ.jpeg
 categories:
   - Freelancing
 tags: []
+summary: ''
 
 ---
 <p id="86e7" class="graf graf--p graf-after--figure">

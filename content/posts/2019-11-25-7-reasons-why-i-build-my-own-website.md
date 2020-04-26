@@ -9,6 +9,7 @@ featured_image: /wp-content/uploads/2019/11/patrik-michalicka-r3iAqHb7JWs-unspla
 categories:
   - Freelancing
 tags: []
+summary: ''
 
 ---
  
