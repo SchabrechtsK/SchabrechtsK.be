@@ -1,6 +1,6 @@
 ---
 title: Developers and their side project
-author: Kenneth
+author: Kenneth Schabrechts
 type: post
 date: 2013-12-20T19:07:00+00:00
 url: /development/developers-and-their-side-project/

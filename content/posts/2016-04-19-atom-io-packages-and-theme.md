@@ -1,6 +1,6 @@
 ---
 title: 'Atom.io: Packages and Theme'
-author: Kenneth
+author: Kenneth Schabrechts
 type: post
 date: 2016-04-19T00:00:00+00:00
 url: /reviews/atom-io-packages-and-theme/

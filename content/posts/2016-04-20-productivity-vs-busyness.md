@@ -1,6 +1,6 @@
 ---
 title: Productivity vs busyness
-author: Kenneth
+author: Kenneth Schabrechts
 type: post
 date: 2016-04-20T00:00:00+00:00
 url: /personal-development/productivity-vs-busyness/

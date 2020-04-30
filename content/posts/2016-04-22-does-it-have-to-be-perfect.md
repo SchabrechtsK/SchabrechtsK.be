@@ -1,6 +1,6 @@
 ---
 title: Does it have to be perfect?
-author: Kenneth
+author: Kenneth Schabrechts
 type: post
 date: 2016-04-22T00:00:00+00:00
 url: /personal-development/does-it-have-to-be-perfect/

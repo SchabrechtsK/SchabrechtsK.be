@@ -1,6 +1,6 @@
 ---
 title: Are our working hours broken?
-author: Kenneth
+author: Kenneth Schabrechts
 type: post
 date: 2016-04-25T00:00:00+00:00
 url: /freelancing/are-our-working-hours-broken/

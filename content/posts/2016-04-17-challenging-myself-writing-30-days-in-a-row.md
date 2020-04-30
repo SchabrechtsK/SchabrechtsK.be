@@ -1,6 +1,6 @@
 ---
 title: 'Challenging Myself: Writing 30 days in a row'
-author: Kenneth
+author: Kenneth Schabrechts
 type: post
 date: 2016-04-17T00:00:00+00:00
 url: /personal-development/challenging-myself-writing-30-days-in-a-row/

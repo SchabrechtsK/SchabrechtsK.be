@@ -1,6 +1,6 @@
 ---
 title: Analog Systems and the Urge to Digitize
-author: Kenneth
+author: Kenneth Schabrechts
 type: post
 date: 2016-04-21T00:00:00+00:00
 url: /personal-development/analog-systems-and-the-urge-to-digitize/
