@@ -1,6 +1,6 @@
 ---
 title: The Boy Scout Rule
-author: Kenneth
+author: Kenneth Schabrechts
 type: post
 date: 2017-02-10T00:00:00+00:00
 url: /development/the-boy-scout-rule/

@@ -11,7 +11,8 @@ tags: ['Development', 'Review', 'Tools']
 summary: 'After my previous post about Atom.io, I want to give you all a list of handy packages and themes'
 
 ---
-So yesterday I talked about Atom.io in [this post]({{< ref "2016-04-18-atom-io.md" >}} "Atom.io").<br /> And as promised today I will give you a list of handy packages that I use in overal for my PHP and webdevelopment.
+So yesterday I talked about Atom.io in [this post]({{< ref "2016-04-18-atom-io.md" >}} "Atom.io").  
+And as promised today I will give you a list of handy packages that I use in overal for my PHP and webdevelopment.
 
 ## Packages
 
