@@ -4,65 +4,35 @@ author: Kenneth Schabrechts
 type: post
 date: 2017-02-10T00:00:00+00:00
 url: /development/the-boy-scout-rule/
-featured_image: /wp-content/uploads/2017/02/1D18D6IY40HmcCkGvAHQhVA.jpeg
+featured_image: /images/2017/boyscout/hero.jpeg
 categories:
   - Development
-tags: []
-summary: ''
+tags: ['Development', 'Best Practices']
+summary: 'Ever worked with legacy code? Then the Boyscout rule is a rule for you. In this post I will tell you how this rule will improve that legacy code.'
 
 ---
-<p id="60ea" class="graf graf--p graf-after--figure">
-  A few weeks back I was at another great edition of the PHPBenelux Conference. And one of the topics that always has a speaker is the one about legacy code. It is just something most of us have to deal with.
-</p>
+A few weeks back I was at another great edition of the PHPBenelux Conference. And one of the topics that always has a speaker is the one about legacy code. It is just something most of us have to deal with.
 
-<p id="dcdb" class="graf graf--p graf-after--p">
-  It was during the last evening social. I was talking with a few great developers about the problem of legacy code. One of them mentioned the Boy Scout rule. Which seemed like a very useful rule.
-</p>
+It was during the last evening social. I was talking with a few great developers about the problem of legacy code. One of them mentioned the Boy Scout rule. Which seemed like a very useful rule.
 
-<p id="cefc" class="graf graf--p graf-after--p">
-  Those who work with legacy code know that most of the time these projects can be a source of agony. Most of the time they’re build with the wrong expectations. The developers might not had the business knowledge they needed to create a decent code base. Or it is one hack after another.
-</p>
+Those who work with legacy code know that most of the time these projects can be a source of agony. Most of the time they’re build with the wrong expectations. The developers might not had the business knowledge they needed to create a decent code base. Or it is one hack after another.
 
-<p id="87ab" class="graf graf--p graf-after--p">
-  The most preferred way to work with these types of project is to just start over from scratch. Unfortunately this is not always a viable option. In comes the Boy Scout Rule:
-</p>
+The most preferred way to work with these types of project is to just start over from scratch. Unfortunately this is not always a viable option. In comes the Boy Scout Rule:
 
-<blockquote id="836b" class="graf graf--pullquote graf-after--p">
-  <p>
-    Always leave the campground cleaner than you found&nbsp;it.
-  </p>
-</blockquote>
+> Always leave the campground cleaner than you found it.
 
-<p id="5cb6" class="graf graf--p graf-after--pullquote">
-  Now, this is one rule we can easily interpret as the following for code:
-</p>
+Now, this is one rule we can easily interpret as the following for code:
 
-<blockquote id="cfae" class="graf graf--pullquote graf-after--p">
-  <p>
-    Always check a module in cleaner than when you checked it&nbsp;out.
-  </p>
-</blockquote>
+> Always check a module in cleaner than when you checked it out.
 
-<p id="2aba" class="graf graf--p graf-after--pullquote">
-  Imagine that you are working on this kind of project. You check-out the code and do the change needed. Next you make sure the test pass. The documentation gets written and you make a pull request. You no longer look at the rest of the code.
-</p>
+Imagine that you are working on this kind of project. You check-out the code and do the change needed. Next you make sure the test pass. The documentation gets written and you make a pull request. You no longer look at the rest of the code.
 
-<p id="d1fe" class="graf graf--p graf-after--p">
-  But what if instead you go the extra mile? It can be as simple as adding missing documentation. You can change variables to something more readable. Heck, You can even go further and split a long function in two smaller functions. Or why not add missing interfaces. And even break circular dependency.
-</p>
+But what if instead you go the extra mile? It can be as simple as adding missing documentation. You can change variables to something more readable. Heck, You can even go further and split a long function in two smaller functions. Or why not add missing interfaces. And even break circular dependency.
 
-<p id="2f1f" class="graf graf--p graf-after--p">
-  That one extra mile would improve the code with each change made. And the project would get better and better as it evolves.
-</p>
+That one extra mile would improve the code with each change made. And the project would get better and better as it evolves.
 
-<p id="5163" class="graf graf--p graf-after--p">
-  And it’s not only about improving the code. The entire projects code becomes a team effort. No longer is everyone only working on their piece of the puzzle as I’ve seen so often.
-</p>
+And it’s not only about improving the code. The entire projects code becomes a team effort. No longer is everyone only working on their piece of the puzzle as I’ve seen so often.
 
-<p id="8d16" class="graf graf--p graf-after--p">
-  And it’s not only for legacy code, it also works for new projects. There are always pieces of code that need improvement. Knowledge that you should pass upon the rest of the team through the code.
-</p>
+And it’s not only for legacy code, it also works for new projects. There are always pieces of code that need improvement. Knowledge that you should pass upon the rest of the team through the code.
 
-<p id="fac3" class="graf graf--p graf-after--p graf--trailing">
-  Consider using the Boy Scout rule and have a cleaner code base.
-</p>
+Consider using the Boy Scout rule and have a cleaner code base.
