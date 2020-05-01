@@ -1,38 +1,28 @@
 ---
 title: My 2019 Personal Retrospective
-author: Kenneth
+author: Kenneth Schabrechts
 type: post
 date: 2020-01-02T15:08:57+00:00
 url: /personal-development/my-2019-personal-retrospective/
-featured_image: /wp-content/uploads/2020/01/hugo-rocha-qFpnvZ_j9HU-unsplash-scaled.jpg
+featured_image: /images/2020/personal-retrospective/hero.jpg
 categories:
   - Personal Development
-tags: []
-summary: ''
+tags: ['Personal Development', 'Retrospective']
+summary: "Around this time I always see a lot of people creating new posts about their previous year. In my quest for creating more content, I wanted to create that kind of post as well. But I wanted it to be different. So I'm doing a 2019 personal retrospective."
 
 ---
-Around this time I always see a lot of people creating new posts about their previous year. In my quest for creating more content, I wanted to create that kind of post as well. But I wanted it to be different. So I&#8217;m doing a 2019 personal retrospective.
+Around this time I always see a lot of people creating new posts about their previous year. In my quest for creating more content, I wanted to create that kind of post as well. But I wanted it to be different. So I'm doing a 2019 personal retrospective.
 
-I have to thank <a rel="noreferrer noopener" aria-label="Jason Lengstorf (opens in a new tab)" href="https://twitter.com/jlengstorf" target="_blank">Jason Lengstorf</a> for the idea. He created <a rel="noreferrer noopener" aria-label="his own 2019 personal retrospective (opens in a new tab)" href="https://lengstorf.com/2019-personal-retrospective/" target="_blank">his own 2019 personal retrospective</a> and has been doing so for a couple of years now. As a format, I&#8217;ll use the same three questions he does. Though I needed to dig deep into my calendar and to-do list to remember what I did this year.<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter tw-align-center">
+I have to thank [Jason Lengstorf](https://twitter.com/jlengstorf "Jason Lengstorf Twitter") for the idea. He created [his own 2019 personal retrospective](https://lengstorf.com/2019-personal-retrospective/ "Jason Lengstorf Retrospective") and has been doing so for a couple of years now. As a format, I'll use the same three questions he does. Though I needed to dig deep into my calendar and to-do list to remember what I did this year.
 
-<div class="wp-block-embed__wrapper">
-  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
-    <p lang="en" dir="ltr">
-      Everyone’s writing 2019 recaps and I’m not even sure anymore what I did last month 🙈😛
-    </p>&mdash; Kenneth Schabrechts (@schabrechtsk) 
-    
-    <a href="https://twitter.com/schabrechtsk/status/1210882679811518464?ref_src=twsrc%5Etfw">December 28, 2019</a>
-  </blockquote>
-</div><figcaption>
-
-<a href="https://twitter.com/schabrechtsk/status/1210882679811518464" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">https://twitter.com/schabrechtsk/status/1210882679811518464</a></figcaption></figure> 
+[![Tweet avout 2019 recaps](/images/2020/personal-retrospective/recap-tweet.png)](https://twitter.com/schabrechtsk/status/1210882679811518464 "Recap 2019 Tweet")
 
 ## Where was I at the end of 2018?
 
-Let&#8217;s go back in time even more and start with where I was when 2019 started. Now I have to say that I don&#8217;t remember much of this since I did not do a 2018 retrospective. Hopefully, this will be easier in the future.
+Let's go back in time even more and start with where I was when 2019 started. Now I have to say that I don't remember much of this since I did not do a 2018 retrospective. Hopefully, this will be easier in the future.
 
-I do still remember that I did a lot of talks in 2018, including a few workshops at different conferences.   
-There was also <a rel="noreferrer noopener" aria-label="the vlog (opens in a new tab)" href="https://www.youtube.com/playlist?list=PLDwQRYvEa4xVFdulnPO4WnHfFnT58dc_t" target="_blank">the vlog</a> I started to try and give back to the community. I know the date on the videos say 2019, due to an issue with my previous account I had to re-upload them all.
+I do still remember that I did a lot of talks in 2018, including a few workshops at different conferences.    
+There was also [the vlog](https://www.youtube.com/playlist?list=PLDwQRYvEa4xVFdulnPO4WnHfFnT58dc_t "Vlog") I started to try and give back to the community. I know the date on the videos say 2019, due to an issue with my previous account I had to re-upload them all.
 
 In my personal life, my girlfriend and I were expecting our first baby. An exciting time to look forward too. With a lot of questions on how it would impact our professional lives.
 
@@ -48,15 +38,15 @@ Of course, I need to start with my baby boy Aiden. Born on the 15th of January, 
 
 ### Team Tech Lead
 
-Even though I&#8217;m an independent developer I can still move up to a different position within the same team. That is exactly what happened in the summer of 2019. After spending some time helping out the Product Owner and the Team Manager I was offered to move up to the position of Team Tech Lead.
+Even though I'm an independent developer I can still move up to a different position within the same team. That is exactly what happened in the summer of 2019. After spending some time helping out the Product Owner and the Team Manager I was offered to move up to the position of Team Tech Lead.
 
-At this point, I&#8217;m no longer Team Tech Lead of 1 team but of 2 teams. Making sure the technical process works the same in both teams and that everyone is happy working at the client.
+At this point, I'm no longer Team Tech Lead of 1 team but of 2 teams. Making sure the technical process works the same in both teams and that everyone is happy working at the client.
 
 ### Building Lot
 
-Following the birth of our baby boy, we also set out to find a suitable home to live in. However, most of the houses we visited seemed to miss something. We couldn&#8217;t find anything suitable to call our home.
+Following the birth of our baby boy, we also set out to find a suitable home to live in. However, most of the houses we visited seemed to miss something. We couldn't find anything suitable to call our home.
 
-Just as we were about to give up and wait another year we found a different solution. We found the perfect spot to build our house. It was a nice building lot, in a quiet area. A forest is close by for our long walks and we wouldn&#8217;t even need to move that far.
+Just as we were about to give up and wait another year we found a different solution. We found the perfect spot to build our house. It was a nice building lot, in a quiet area. A forest is close by for our long walks and we wouldn't even need to move that far.
 
 ### Personal Website
 
@@ -69,7 +59,7 @@ There are a few things that I would like to have been better at in 2019.
 
 ### Vlog 2.0
 
-I started a new vlog series called <a rel="noreferrer noopener" aria-label="Vlog 2.0 (opens in a new tab)" href="https://www.youtube.com/playlist?list=PLDwQRYvEa4xV8z81zYYQ6WbtVDLtoXOjL" target="_blank">Vlog 2.0</a>. But after a while, the same issues came up as with version 1. I started doubting the content, the delivery and myself.
+I started a new vlog series called [Vlog 2.0](https://www.youtube.com/playlist?list=PLDwQRYvEa4xV8z81zYYQ6WbtVDLtoXOjL "Vlog 2.0"). But after a while, the same issues came up as with version 1. I started doubting the content, the delivery and myself.
 
 I need to review the process, the content and the delivery. That means 2020 might see a continuation of the vlog.
 
@@ -79,12 +69,12 @@ In 2019 I neglected to visit meetups and speak at them. I registered to a few bu
 
 ### Physical health
 
-I&#8217;m currently at my heaviest, ever. And it&#8217;s not muscles that are adding weight to my body. So I took a gym membership at the start of 2019. After a few sessions, the personal trainer made me go past a breaking point. An injured knee was the result. After that, I didn&#8217;t trust the trainer anymore and when my knee was healed up I just stopped going.  
+I'm currently at my heaviest, ever. And it's not muscles that are adding weight to my body. So I took a gym membership at the start of 2019. After a few sessions, the personal trainer made me go past a breaking point. An injured knee was the result. After that, I didn't trust the trainer anymore and when my knee was healed up I just stopped going.  
 As a result, I gained more weight, ate even more unhealthy and feel like a sack of potatoes at times.
 
 ## What will I change going into 2020?
 
-Overall 2019 wasn&#8217;t my best year, though it wasn&#8217;t my worst either.
+Overall 2019 wasn't my best year, though it wasn't my worst either.
 
 ### High-level 2020 goals
 
@@ -102,6 +92,6 @@ Even though this is the first time I tried this, I already like it. If you want 
 
 
 
-If you do, and you make it public, feel free to tweet <a rel="noreferrer noopener" aria-label="Jason (opens in a new tab)" href="https://twitter.com/jlengstorf" target="_blank">Jason</a> and <a rel="noreferrer noopener" aria-label="me (opens in a new tab)" href="https://twitter.com/schabrechtsk" target="_blank">me</a> to let us know. Over on <a rel="noreferrer noopener" aria-label="Jason's post (opens in a new tab)" href="https://lengstorf.com/2019-personal-retrospective/" target="_blank">Jason&#8217;s post</a>, there&#8217;s also a link to a supportive community to bounce ideas off.
+If you do, and you make it public, feel free to tweet [Jason](https://twitter.com/jlengstorf "Jason Lengstorf Twitter") and [me](https://twitter.com/schabrechtsk "SchabrechtsK Twitter") to let us know. Over on [Jason's post](https://lengstorf.com/2019-personal-retrospective/ "Jason Lengstorf Retrospective"), there's also a link to a supportive community to bounce ideas off.
 
 Happy retrospective!
