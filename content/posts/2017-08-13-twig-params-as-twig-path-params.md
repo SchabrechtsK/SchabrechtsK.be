@@ -1,14 +1,14 @@
 ---
 title: Twig Params as Twig Path() params
-author: Kenneth
+author: Kenneth Schabrechts
 type: post
 date: 2017-08-13T00:00:00+00:00
 url: /development/twig-params-as-twig-path-params/
-featured_image: /wp-content/uploads/2017/08/1XubqkYXDtHE0bDNYnAmsuA.jpeg
+featured_image: /images/2017/twig-params/hero.jpeg
 categories:
   - Development
-tags: []
-summary: ''
+tags: ['Development', 'Symfony', 'Twig']
+summary: 'For our project we wanted to create a Base CrudController. One to be reused by all the CRUD controllers. One missing piece of the puzzle was how to pass the correct entity in the path. In this post I will show you how we do this with Twig.'
 
 ---
 When our current project started we were tasked to create a BaseCrudController. Since we were going to use a lot of basic CRUD actions in the beginning of the project.
@@ -17,7 +17,8 @@ Setting up the entire BaseCrudController was not that much of an issue. Except f
 
 So we were forced to set this parameter name through an abstract function. The endcontroller would look something like the following code example. We’re just displaying the view action here to keep it short and sweet.
 
-<pre class="wp-block-code"><code>&lt;?php
+``` PHP
+<?php
 namespace AppBundle\Controller;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
@@ -37,7 +38,8 @@ class TwigParamExampleController extends Controller
             'entity' => $entity
         ]);
     }
-}</code></pre>
+}
+```
 
 If you look at the code you can see we used multiple abstract methods to set-up the endcontroller. In this way we could setup a new CRUD controller fast and with ease. All we had to do was implement the abstracted functions.
 
@@ -45,12 +47,16 @@ For the render in this example we first define the detail view, which is the twi
 
 Our first instinct was to use the _twig\_param\_name_ in the same way we use any parameter as shown in the next example.
 
-<pre class="wp-block-code"><code>&lt;a href="{{ path(edit_url, {twig_param_name: entity.id}) }}">Link&lt;/a></code></pre>
+``` HTML
+<a href="{{ path(edit_url, {twig_param_name: entity.id}) }}">Link</a>
+```
 
 Needles to say, this would throw an error. And so we went on to search for a working solution.
 
 The solution we found was actually very simple. All we had to do was to let Twig know that this was actually a parameter. The way we can do this is by surrounding the twig\_param\_name parameter with parentheses. This is shown in the next example.
 
-<pre class="wp-block-code"><code>&lt;a href="{{ path(edit_url, {(twig_param_name): entity.id}) }}">Link&lt;/a></code></pre>
+``` HTML
+<a href="{{ path(edit_url, {(twig_param_name): entity.id}) }}">Link</a>
+```
 
 And just like that we had our BaseCrudController figured out with it’s own views and working links.
