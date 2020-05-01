@@ -28,3 +28,4 @@ enableRobotsTXT = true
   featured_image = "/images/hero.png"
   recent_posts_number = 4
   show_reading_time = true
+  custom_css = ["css/schabrechtsk.css"]
