@@ -1,17 +1,17 @@
 ---
 title: 'PHPBenelux 2020 Workshop: User Experience Design 101'
-author: Kenneth
+author: Kenneth Schabrechts
 type: post
 date: 2019-12-07T13:12:26+00:00
 url: /announcements/phpbenelux-2020-workshop-user-experience-design-101/
-featured_image: /wp-content/uploads/2019/12/Untitled-Design.jpg
+featured_image: /images/2019/workshop-phpbenelux/hero.jpg
 categories:
   - Announcements
-tags: []
-summary: ''
+tags: ['Announcements', 'Public Speaking', 'Workshops', 'UX', 'UI']
+summary: "I'm delighted to announce that I will be giving a workshop on User Experience Design at PHPBenelux 2020."
 
 ---
-I&#8217;m delighted to announce that I will be giving a workshop on User Experience Design at PHPBenelux 2020.
+I'm delighted to announce that I will be giving a workshop on User Experience Design at PHPBenelux 2020.
 
 ## User Experience Design 101
 
@@ -27,10 +27,6 @@ In this workshop, we will learn how User Experience Designers do the following:
   * Create User Stories and User Paths
   * Build wireframes with best practices
 
-
-
 We’ll also learn how to use this process to our advantage. Resulting in better analysis, more in-depth test cases and more useful fixtures.
 
-<div class="wp-block-button aligncenter is-style-fill">
-  <a class="wp-block-button__link has-background" href="https://tickets.oxynade.com/?lang=en&distributionId=29020&eventId=356068" style="background-color:#ffce54" target="_blank" rel="noreferrer noopener">Get your tickets now!</a>
-</div>
+[Buy your ticket here!](https://tickets.oxynade.com/?lang=en&distributionId=29020&eventId=356068)
