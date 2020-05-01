@@ -1,14 +1,14 @@
 ---
 title: 'Codeception 101: Start to test'
-author: Kenneth
+author: Kenneth Schabrechts
 type: post
 date: 2017-10-21T00:00:00+00:00
 url: /development/codeception-101-start-to-test/
-featured_image: /wp-content/uploads/2017/10/1qj3K1z1WY89KkPQBVSgTrA.png
+featured_image: /images/2017/codeception/hero.png
 categories:
   - Development
-tags: []
-summary: ''
+tags: ['Development', 'Testing', 'Codeception']
+summary: 'Testing our code is so important. But how can you easily manage all those different tests? Introducing Codeception. In this post I will show you how to setup this tool so you can easily test your code.'
 
 ---
 We all know we should be testing our code. To do just that there are a lot of possibilities. Unit testing being the most popular and well known possibility.
@@ -23,7 +23,7 @@ In comes Codeception which can handle all three different types of testing and m
 
 To handle all these different testing scenarios Codeception uses something they call suites.
 
-**Suites**
+## Suite
 
 As mentioned above Codeception does not limit you to just one type of testing. It’s main advantage is that you can choose what types of test you would like to support. Should you decide to add another type of test later on than it is still possible by just adding the suite that you need.
 
@@ -31,15 +31,19 @@ Codeception consists of three default suites: A “unit suite” for all unit te
 
 In a later post we’ll go over each type of test. Those posts will explain what they are and how they can benefit you.
 
-**Install and setup**
+## Install and setup
 
 First we need to add Codeception to your project. For this I prefer to use composer:
 
-<pre class="wp-block-code"><code>composer require codeception/codeception</code></pre>
+``` bash
+composer require codeception/codeception
+```
 
 Next we’re going to setup codeception using the bootstrap command. This bootstrap function will install codeception for acceptance, functional and unit testing.
 
-<pre class="wp-block-code"><code>./vendor/bin/codecept bootstrap</code></pre>
+``` bash
+./vendor/bin/codecept bootstrap
+```
 
 If you want you can add some more data to bootstrap to setup your suite as desired.
 
@@ -51,7 +55,7 @@ With `—actor Wizard` you can set the actor as Wizard, so you have a TestWizard
 
 Lastly, with `path/to/project` you can provide a different path to a project, where the tests should be placed.
 
-**Configuration**
+## Configuration
 
 Now we’re going to update the different configuration files for codeception itself and the different suites.
 
@@ -71,21 +75,24 @@ For now we’ll start by looking at our acceptance suite yml file to get a gener
 
 In the example below we enabled the WebDriver module as it will be used by the test to test using a browser.
 
-<pre class="wp-block-code"><code>actor: AcceptanceTester
+``` YAML
+actor: AcceptanceTester
 modules:
     enabled:
         - WebDriver:
-            url: &lt;url>
+            url: <url>
             browser: chrome
-            host: &lt;host>
+            host: <host>
         - \test\Helper\Acceptance
-        - Asserts</code></pre>
+        - Asserts
+```
 
 Next up is the functional suite yml file. Here we define the framework the functional tests should use.
 
 In my case this would be the Symfony framework. Besides that we also use the Doctrine2 plugin and the Functional helper class.
 
-<pre class="wp-block-code"><code>actor: FunctionalTester
+``` YAML
+actor: FunctionalTester
 modules:
     enabled:
         - Symfony:
@@ -95,17 +102,20 @@ modules:
         - Doctrine2:
             depends: Symfony
             cleanup: true
-        - \test\Helper\Functional</code></pre>
+        - \test\Helper\Functional
+```
 
 The unit suite yml is fine as it is in default. It will use PHPUnit to run those tests correctly.
 
-<pre class="wp-block-code"><code>actor: UnitTester
+``` YAML
+actor: UnitTester
 modules:
     enabled:
         - Asserts
-        - \test\Helper\Unit</code></pre>
+        - \test\Helper\Unit
+```
 
-**Profiles**
+## Profiles
 
 Now as you have noticed we did not talk about environments. But it may be handy to set-up different configurations depending on the environment.
 
@@ -115,30 +125,32 @@ This is handled by Codeception using the env tag. These environments can be adde
 
 If we take the acceptance.suite.yml file for example:
 
-<pre class="wp-block-code"><code>env:
+``` YAML
+env:
     development:
         modules:
             config:
                 WebDriver:
-                    url: &lt;development server url>
-
+                    url: <server url>
     staging:
         modules:
             config:
                 WebDriver:
-                    url: &lt;staging server url>
-
+                    url: <server url>
     test:
         modules:
             config:
                 WebDriver:
-                    url: &lt;test server url></code></pre>
+                    url: <server url>
+```
 
 To run a test suite in the correct configuration all you need to do is add the following:
 
-`<em>—env staging</em>`
+``` bash
+—env staging
+```
 
-**Build**
+## Build
 
 When you are done with setting up the configuration we just need to run the build command. This will generate the Actor classes that we need according to the suites configuration.
 
@@ -146,8 +158,10 @@ Note that actor classes are now auto generated starting Codeception 2.0.
 
 We do this with the following command:
 
-<pre class="wp-block-code"><code>./vendor/bin/codecept build</code></pre>
+``` bash
+./vendor/bin/codecept build
+```
 
-**Next**
+## Next
 
 In our next posts we’ll go over each suite separately and provide an example. So follow this channel to be updated on when the new posts are published.

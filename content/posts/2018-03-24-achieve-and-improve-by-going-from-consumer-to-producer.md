@@ -1,6 +1,6 @@
 ---
 title: Achieve and improve by going from consumer to producer
-author: Kenneth
+author: Kenneth Schabrechts
 type: post
 date: 2018-03-24T00:00:00+00:00
 url: /personal-development/achieve-and-improve-by-going-from-consumer-to-producer/
