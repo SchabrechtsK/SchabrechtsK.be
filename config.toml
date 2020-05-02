@@ -16,7 +16,7 @@ enableRobotsTXT = true
     name = "Kenneth Schabrechts"
 
 [params]
-  favicon = "/images/favicon.png"
+  favicon = "images/favicon.png"
   description = "Independent software developer & Technical Lead"
   facebook = "https://www.facebook.com/SchabrechtsK/"
   twitter = "https://twitter.com/schabrechtsk"
