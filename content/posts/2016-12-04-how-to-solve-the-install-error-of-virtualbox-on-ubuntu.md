@@ -4,7 +4,7 @@ author: Kenneth Schabrechts
 type: post
 date: 2016-12-04T00:00:00+00:00
 url: /development/how-to-solve-the-install-error-of-virtualbox-on-ubuntu/
-featured_image: /images/2016/virtual-box/hero.jpeg
+featured_image: /images/2016/virtual-box/hero.jpg
 categories:
   - Development
 tags: ['Development', 'Tools', 'Virtual Box']

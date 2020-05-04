@@ -13,7 +13,7 @@ summary: "Consumer vs Producer. I filled in a small survey and came to a conclus
 ---
 Last wednesday I woke up and saw the following on my instagram through the [Gary Vaynerchuk](https://www.instagram.com/garyvee "Gary Vaynerchuk Instagram Page") stories:
 
-![The Gary V empty survey](/images/2018/consumer-to-producer/survey-empty.png)
+![The Gary V empty survey](/images/2018/consumer-to-producer/survey-empty.jpeg)
 
 I normally never do any of these but gave it a shot nonetheless. This gave me the following result:
 
