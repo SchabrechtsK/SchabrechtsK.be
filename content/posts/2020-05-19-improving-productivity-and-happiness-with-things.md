@@ -3,14 +3,14 @@ title: Improving My Productivity And Happiness With Things
 author: Kenneth Schabrechts
 type: post
 date: 2020-05-19
-url: /lala/improving-productivity-and-happiness-with-things/
+url: /posts/improving-productivity-and-happiness-with-things/
 featured_image: /images/2020/productivity-things/hero.png
 categories:
   - 'Personal Development'
 tags: ['Personal Development', 'Productivity', 'Happiness', 'Things']
 summary: "I've been using Things for a while now. But I felt I did not use it to it's fullest potential. So this weekend I updated my workflow. In this post, I'll tell you what I did and how I use Things to improve my productivity."
 
----
+---gs
 For years now I've had my share of productivity apps that I used. From simple analog notebooks to Wunderlist, from RememberTheMilk to Things. I've tried them all. Things was the last one I tried and it stuck. 
 
 But this past year, it feels like I've not yet used Things to it's fullest potential. This meant I had to put in extra work to make me work. Now I've refined the process to make Things work for me. 
