@@ -7,7 +7,7 @@ url: /ux-ui/use-case-schabrechtsk-be/
 featured_image: /images/2019/schabrechtsk/hero.png
 categories:
   - UX/UI
-tags: ['UI', 'UX', 'Research', 'Show Case']
+tags: ['UI/UX', 'Research', 'Show Case', 'Personal Brand', 'Branding']
 summary: 'To build this site I used my User Experience Design training to determine what I exactly needed to build. This post is a summary of that research document.'
 
 ---

@@ -7,7 +7,7 @@ url: /personal-development/you-failed-so-what/
 featured_image: /images/2016/failed/hero.jpeg
 categories:
   - Personal Development
-tags: ['Personal Development', 'Failure']
+tags: ['Personal Development', 'Failure', 'Learning', 'Happiness']
 summary: 'Failure, it happens all the time. Yesterday I failed again.'
 
 ---

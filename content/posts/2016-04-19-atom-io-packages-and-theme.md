@@ -8,7 +8,7 @@ featured_image: /images/2016/atom-packages/hero.png
 serie: ["Atom"]
 categories:
   - Reviews
-tags: ['Development', 'Review', 'Tools']
+tags: ['Development', 'Review', 'Tools', 'Atom']
 summary: 'After my previous post about Atom.io, I want to give you all a list of handy packages and themes'
 
 ---

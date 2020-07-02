@@ -7,7 +7,7 @@ url: /personal-development/my-2019-personal-retrospective/
 featured_image: /images/2020/personal-retrospective/hero.jpg
 categories:
   - Personal Development
-tags: ['Personal Development', 'Retrospective']
+tags: ['Personal Development', 'Retrospective', '']
 summary: "Around this time I always see a lot of people creating new posts about their previous year. In my quest for creating more content, I wanted to create that kind of post as well. But I wanted it to be different. So I'm doing a 2019 personal retrospective."
 
 ---

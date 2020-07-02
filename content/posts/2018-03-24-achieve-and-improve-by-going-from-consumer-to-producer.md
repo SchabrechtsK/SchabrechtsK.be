@@ -7,7 +7,7 @@ url: /personal-development/achieve-and-improve-by-going-from-consumer-to-produce
 featured_image: /images/2018/consumer-to-producer/hero.jpeg
 categories:
   - Personal Development
-tags: ['Personal Development', 'Consuming', 'Producing']
+tags: ['Personal Development', 'Consuming', 'Producing', 'Productivity', 'Learning', 'Freelancing', 'Content']
 summary: "Consumer vs Producer. I filled in a small survey and came to a conclusion. In the first place, I'm a consumer. But is that what I want to be? I dig deeper into this in this post."
 
 ---

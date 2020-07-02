@@ -7,7 +7,7 @@ url: /development/codeception-101-start-to-test/
 featured_image: /images/2017/codeception/hero.png
 categories:
   - Development
-tags: ['Development', 'Testing', 'Codeception']
+tags: ['Development', 'Testing', 'Codeception', 'Tools']
 summary: 'Testing our code is so important. But how can you easily manage all those different tests? Introducing Codeception. In this post I will show you how to setup this tool so you can easily test your code.'
 
 ---

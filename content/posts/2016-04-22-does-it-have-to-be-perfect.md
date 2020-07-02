@@ -7,7 +7,7 @@ url: /personal-development/does-it-have-to-be-perfect/
 featured_image: /images/2016/perfect/hero.jpeg
 categories:
   - Personal Development
-tags: ['Personal Development', 'Perfect']
+tags: ['Personal Development', 'Perfect', 'Productivity', 'Personal Development']
 summary: 'Perfect, some us put everything on hold waiting for it to be perfect. But will that ever come?'
 
 ---

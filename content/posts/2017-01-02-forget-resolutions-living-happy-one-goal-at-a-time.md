@@ -7,7 +7,7 @@ url: /personal-development/forget-resolutions-living-happy-one-goal-at-a-time/
 featured_image: /images/2017/one-goal-at-a-time/hero.jpeg
 categories:
   - Personal Development
-tags: ['Personal Development', 'Goals', 'Resolutions']
+tags: ['Personal Development', 'Goals', 'Resolutions', 'Productivity', 'Happiness']
 summary: 'A new year, a new set of resolutions. But are resolutions the correct way? I believe we should goals. In this post I explain why and how you can set your own goals.'
 
 ---

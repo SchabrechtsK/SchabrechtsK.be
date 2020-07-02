@@ -7,7 +7,7 @@ url: /personal-development/1001-ideas-let-s-take-some-action/
 featured_image: /images/2018/1001-ideas/hero.jpeg
 categories:
   - Personal Development
-tags: ['Personal Development', 'Content', 'Producing']
+tags: ['Personal Development', 'Content', 'Producing', 'Challenge', 'Productivity']
 summary: 'We all have so many ideas. Time to act upon them.'
 
 ---

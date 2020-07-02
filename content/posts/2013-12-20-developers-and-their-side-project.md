@@ -7,7 +7,7 @@ url: /development/developers-and-their-side-project/
 featured_image: /images/2013/side-project/hero.jpg
 categories:
   - Development
-tags: ['Side Project', 'Side-projects', 'Development', 'Learning', 'Involved', 'OSS']
+tags: ['Development', 'Side Projects', 'Learning', 'OSS']
 summary: "A lot of developers have side-projects. In this post I'll show you why you should have your own as well."
 
 ---

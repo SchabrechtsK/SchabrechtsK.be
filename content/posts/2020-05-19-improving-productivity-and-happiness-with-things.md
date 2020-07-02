@@ -7,7 +7,7 @@ url: /posts/improving-productivity-and-happiness-with-things/
 featured_image: /images/2020/productivity-things/hero.png
 categories:
   - 'Personal Development'
-tags: ['Personal Development', 'Productivity', 'Happiness', 'Things']
+tags: ['Personal Development', 'Productivity', 'Happiness', 'Things', 'Tools', 'Review', 'Digital']
 summary: "I've been using Things for a while now. But I felt I did not use it to it's fullest potential. So this weekend I updated my workflow. In this post, I'll tell you what I did and how I use Things to improve my productivity."
 
 ---

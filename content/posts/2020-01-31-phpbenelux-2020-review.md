@@ -6,8 +6,8 @@ date: 2020-01-31T13:02:33+00:00
 url: /meetups-conferences/phpbenelux-2020-review/
 featured_image: /images/2020/phpbenelux-2020/hero.jpg
 categories:
-  - 'Meetups &amp; Conferences'
-tags: ['Meetups', 'Conferences', 'Review', 'PHPBenelux']
+  - 'Meetups & Conferences'
+tags: ['Meetups & Conferences', 'Review', 'PHPBenelux', 'Learning', 'Development']
 summary: 'Another year, another PHPBenelux. This year, on the 24th and the 25th of January, it was the 11th edition. In this post I look back on what was another fun edition of this conference!'
 
 ---

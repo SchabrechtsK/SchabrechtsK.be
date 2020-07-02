@@ -8,7 +8,7 @@ url: /freelancing/7-reasons-why-i-build-my-own-website/
 featured_image: /images/2019/own-website/hero.jpg
 categories:
   - Freelancing
-tags: ['Freelance', 'Freelancing', 'Personal Brand', 'Branding']
+tags: ['Freelancing', 'Personal Brand', 'Branding', 'Development']
 summary: 'I opted for creating my own website. Not owned by any platform like Medium, dev.to. In this post I explain why I did this and why you should too.'
 
 ---

@@ -7,7 +7,7 @@ url: /ux-ui/envisioning-a-product-the-kano-model/
 featured_image: /images/2019/kano-model/hero.jpeg
 categories:
   - UX/UI
-tags: ['UI', 'UX', 'Kano', 'Model', 'Product', 'Vision']
+tags: ['UI/UX', 'Kano', 'Model', 'Product', 'Vision']
 summary: 'When creating a product it is important to have a good product vision. After all you need to know what exactly it is you’re going to build. In this post I introduce you to the Kano model for reaching that point of knowing what to build.'
 
 ---

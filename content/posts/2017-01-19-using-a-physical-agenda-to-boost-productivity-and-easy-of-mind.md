@@ -7,7 +7,7 @@ url: /personal-development/using-a-physical-agenda-to-boost-productivity-and-eas
 featured_image: /images/2017/physical-agenda/hero.jpg
 categories:
   - Personal Development
-tags: ['Personal Development', 'Analog', 'Digital', 'Productivity']
+tags: ['Personal Development', 'Analog', 'Digital', 'Productivity', 'Tools']
 summary: 'I caught myself moving more and more to digital systems again. So I started using an analog planner. In this post I go deeper into this.'
 
 ---
