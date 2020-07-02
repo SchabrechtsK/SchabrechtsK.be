@@ -18,6 +18,24 @@
 	    {{ end }}
     </ul>
 </div>
+<br /><br />
+{{ end }}
+
+{{ $latest := .Site.RegularPages | first 5 }}
+
+{{ with $latest }}
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Latest Posts</p>
+    <ul class="pa0 list">
+	   {{ range . }}
+	     <li  class="mb2">
+          <a href="{{ .RelPermalink }}">
+            {{- .Title -}}
+          </a>
+        </li>
+	    {{ end }}
+    </ul>
+</div>
 {{ end }}
 
 <script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="SchabrechtsK" data-description="Support me on Buy me a coffee!" data-message="Thank you for visiting. You can now buy me a coffee to support me!" data-color="#FED33C" data-position="right" data-x_margin="20" data-y_margin="20"></script>
