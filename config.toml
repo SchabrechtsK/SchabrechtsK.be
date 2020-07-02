@@ -32,8 +32,8 @@ enableRobotsTXT = true
 
 [related]
    includeNewer = true
-   threshold = 5
+   threshold = 15
    toLower = true
   [[related.indices]]
-    name = "tags"
-    weight = 100
+    name = "serie"
+    weight = 200
