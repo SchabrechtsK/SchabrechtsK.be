@@ -29,3 +29,11 @@ enableRobotsTXT = true
   recent_posts_number = 4
   show_reading_time = true
   custom_css = ["css/schabrechtsk.css"]
+
+[related]
+   includeNewer = true
+   threshold = 5
+   toLower = true
+  [[related.indices]]
+    name = "tags"
+    weight = 100
