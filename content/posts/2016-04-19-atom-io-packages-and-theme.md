@@ -5,6 +5,7 @@ type: post
 date: 2016-04-19T00:00:00+00:00
 url: /reviews/atom-io-packages-and-theme/
 featured_image: /images/2016/atom-packages/hero.png
+serie: ["Atom"]
 categories:
   - Reviews
 tags: ['Development', 'Review', 'Tools']
