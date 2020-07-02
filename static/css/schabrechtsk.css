@@ -19,3 +19,7 @@ nav > div > div > ul > li > a:hover {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+.tags {
+    margin: 0 0.2rem;
+}
