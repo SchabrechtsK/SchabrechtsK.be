@@ -23,3 +23,11 @@ nav > div > div > ul > li > a:hover {
 .tags {
     margin: 0 0.2rem;
 }
+
+.twitch {
+    fill: #BABABA;
+}
+
+.twitch:hover {
+    fill: #6441A4;
+}
