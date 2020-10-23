@@ -101,4 +101,4 @@ So, don't beat yourself up if you did not finish your todo list today. There is 
 With this system in place, my todo list is doing the heavy lifting for me instead of vice versa. 
 It is allowing me to more productive while working on the things that matter and fit in the time I have.
 
-I hope this helps you as well to set up a productivity system that can help you. I realize that todo lists and managing them is a very personal thing. Everyone has a different way that works for them. But trial and error will get you there, so take of this what works for you and drop the rest.
+I hope this helps you as well to set up a productivity system that can help you. I realize that todo lists and managing them is a very personal thing. Everyone has a different way that works for them. But trial and error will get you there, so take of this what works for you and drop the rest!
