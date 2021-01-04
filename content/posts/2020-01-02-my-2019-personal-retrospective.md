@@ -5,9 +5,10 @@ type: post
 date: 2020-01-02T15:08:57+00:00
 url: /personal-development/my-2019-personal-retrospective/
 featured_image: /images/2020/personal-retrospective/hero.jpg
+serie: ["Retrospective"]
 categories:
   - Personal Development
-tags: ['Personal Development', 'Retrospective', '']
+tags: ['Personal Development', 'Retrospective']
 summary: "Around this time I always see a lot of people creating new posts about their previous year. In my quest for creating more content, I wanted to create that kind of post as well. But I wanted it to be different. So I'm doing a 2019 personal retrospective."
 
 ---
@@ -15,7 +16,8 @@ Around this time I always see a lot of people creating new posts about their pre
 
 I have to thank [Jason Lengstorf](https://twitter.com/jlengstorf "Jason Lengstorf Twitter") for the idea. He created [his own 2019 personal retrospective](https://lengstorf.com/2019-personal-retrospective/ "Jason Lengstorf Retrospective") and has been doing so for a couple of years now. As a format, I'll use the same three questions he does. Though I needed to dig deep into my calendar and to-do list to remember what I did this year.
 
-[![Tweet avout 2019 recaps](/images/2020/personal-retrospective/recap-tweet.png)](https://twitter.com/schabrechtsk/status/1210882679811518464 "Recap 2019 Tweet")
+![Tweet avout 2019 recaps](/images/2020/personal-retrospective/recap-tweet.png)
+[Recap Tweet](https://twitter.com/schabrechtsk/status/1210882679811518464 "Recap 2019 Tweet")
 
 ## Where was I at the end of 2018?
 
@@ -92,6 +94,6 @@ Even though this is the first time I tried this, I already like it. If you want 
 
 
 
-If you do, and you make it public, feel free to tweet [Jason](https://twitter.com/jlengstorf "Jason Lengstorf Twitter") and [me](https://twitter.com/schabrechtsk "SchabrechtsK Twitter") to let us know. Over on [Jason's post](https://lengstorf.com/2019-personal-retrospective/ "Jason Lengstorf Retrospective"), there's also a link to a supportive community to bounce ideas off.
+If you do, and you make it public, feel free to tweet [Jason](https://twitter.com/jlengstorf "Jason Lengstorf Twitter") and [me](https://twitter.com/schabrechtsk "SchabrechtsK Twitter") to let us know. Over on [Jason his post](https://lengstorf.com/2019-personal-retrospective/ "Jason Lengstorf Retrospective"), there's also a link to a supportive community to bounce ideas off.
 
 Happy retrospective!
