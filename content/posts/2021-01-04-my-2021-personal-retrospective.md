@@ -76,8 +76,8 @@ Twitch is the only exception to this rule. If I do not stream consistently, it w
 * **Content Creation.**
     * Twitch: Gain affiliate status
     * YouTube: Get 100 subscribers, so I can get a custom link
-    * Create 12 blogposts
-    * Create 12 podcast episodes
+    * Write more blog posts than last year
+    * Start a podcast, as an experiment to see how it feels
 
 ## What are your goals for 2021?
 
