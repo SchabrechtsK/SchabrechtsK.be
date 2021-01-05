@@ -22,7 +22,7 @@ So let's start off with the first main question.
 ## Where was I at the end of 2019?
 
 Looking back at my previous retrospective I mentioned my son Aiden.  
-At the end of 2020, we were still not out of the health issue department. Our son still had issues with his hips.
+At the end of 2019, we were still not out of the health issue department. Our son still had issues with his hips.
 
 Healthwise, I was at an all-time low. My weight was at it's worst. So I made a goal to lose some.  
 I'd hoped to achieve this by having a healthy diet and plenty of exercises.
