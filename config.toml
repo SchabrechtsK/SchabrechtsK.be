@@ -46,6 +46,9 @@ pygmentsCodefencesGuessSyntax = true
     # Google Site Verify
     googleSiteVerify = "YIVl9Kw1qbS11D80Ga3M_u1nIXrrcy7TCb-m9YjEOs8"
 
+    # Twitter card support
+    images = ["images/site-feature-image.png"]
+
     # Socials
     # use 'fab' when brand icons, use 'fas' when standard solid icons.
     [[params.socialIcons]]
@@ -85,8 +88,6 @@ pygmentsCodefencesGuessSyntax = true
 
 
     # TODO: ALL BELOW THIS PART!
-#    # Twitter card support
-#     images = ["images/site-feature-image.png"]
 #
 #     # Form Spree Contact Form
 #     #contactFormAction = "https://formspree.io/f/your-form-hash-here"
