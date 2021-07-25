@@ -25,6 +25,8 @@ pygmentsCodefencesGuessSyntax = true
     description = "Independent software developer & Technical Lead"
     author = "Kenneth Schabrechts"
     profilePicture = "images/profile.png"
+    # Twitter card support
+    images = ["images/site-feature-image.png"]
     show_reading_time = true
     favicon = "favicons/"
     # Animations are default shown so turn off here by setting to true
@@ -45,9 +47,6 @@ pygmentsCodefencesGuessSyntax = true
     use = "katex"  # options: "katex", "mathjax". default is "katex".
     # Google Site Verify
     googleSiteVerify = "YIVl9Kw1qbS11D80Ga3M_u1nIXrrcy7TCb-m9YjEOs8"
-
-    # Twitter card support
-    images = ["images/site-feature-image.png"]
 
     # Socials
     # use 'fab' when brand icons, use 'fas' when standard solid icons.
