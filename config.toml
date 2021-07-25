@@ -1,40 +1,92 @@
 baseURL = "https://www.schabrechtsk.be"
-languageCode = "en-us"
-title = "SchabrechtsK"
-theme = "ananke"
-
-SectionPagesMenu = "main"
-Paginate = 9
+languageCode = "en"
+title = "SchabrechtsK - Independent software developer & Technical Lead"
+theme = "anatole"
+enableEmoji = true
 enableRobotsTXT = true
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
 
-[author]
-    name = "Kenneth Schabrechts"
+[sitemap]
+    changefreq = "monthly"
+    priority = 0.5
+    filename = "sitemap.xml"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe=true
 
 [params]
-  favicon = "images/favicon.png"
-  description = "Independent software developer & Technical Lead"
-  facebook = "https://www.facebook.com/SchabrechtsK/"
-  twitter = "https://twitter.com/schabrechtsk"
-  instagram = "https://www.instagram.com/schabrechtsk/"
-  youtube = "https://www.youtube.com/channel/UCEJxHRVVF3bLrv6XANtcPbQ"
-  twitch = "https://twitch.tv/SchabrechtsK"
-  github = "https://github.com/SchabrechtsK"
-  linkedin = "https://www.linkedin.com/in/schabrechtsk/"
-  background_color_class = "bg-black"
-  featured_image = "/images/hero.png"
-  recent_posts_number = 4
-  show_reading_time = true
-  custom_css = ["css/schabrechtsk.css"]
+    title = "I'm Kenneth Schabrechts"
+    description = "Independent software developer & Technical Lead"
+    author = "Kenneth Schabrechts"
+    profilePicture = "images/profile.png"
+    show_reading_time = true
+    favicon = "favicons/"
+    # Animations are default shown so turn off here by setting to true
+    doNotLoadAnimations = false
+    # Keywords for SEO
+    keywords = "SchabrechtsK, Kenneth Schabrechts, Independent software developer, Technical Lead"
+    # Date Formats
+    singleDateFormat = "02 Jan 2006"
+    indexDateFormat = "02 Jan 2006"
+    listDateFormat = "02 Jan 2006"
+    # Content Ratio: How much % should the content take up. Default: 0.6
+    contentratio = 0.65
+    # What is the main section where the content is?
+    mainSections = ["post"]
+    ## Math settings
+    [math]
+    enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+    use = "katex"  # options: "katex", "mathjax". default is "katex".
+    # Google Site Verify
+    googleSiteVerify = "YIVl9Kw1qbS11D80Ga3M_u1nIXrrcy7TCb-m9YjEOs8"
 
-[related]
-   includeNewer = true
-   threshold = 15
-   toLower = true
-  [[related.indices]]
-    name = "serie"
-    weight = 200
+    # Socials
+    # use 'fab' when brand icons, use 'fas' when standard solid icons.
+    [[params.socialIcons]]
+    icon = "fab fa-github"
+    title = "GitHub"
+    url = "https://github.com/SchabrechtsK"
+
+    [[params.socialIcons]]
+    icon = "fab fa-twitter"
+    title = "Twitter"
+    url = "https://twitter.com/schabrechtsk"
+
+    [[params.socialIcons]]
+    icon = "fab fa-linkedin"
+    title = "Linkedin"
+    url = "https://www.linkedin.com/in/schabrechtsk/"
+
+    [[params.socialIcons]]
+    icon = "fab fa-youtube"
+    title = "YouTube"
+    url = "https://www.youtube.com/channel/UCEJxHRVVF3bLrv6XANtcPbQ"
+
+    [[params.socialIcons]]
+    icon = "fab fa-twitch"
+    title = "Twitch"
+    url = "https://twitch.tv/SchabrechtsK"
+
+    [[params.socialIcons]]
+    icon = "fab fa-instagram"
+    title = "instagram"
+    url = "https://www.instagram.com/schabrechtsk/"
+
+    [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "e-mail"
+    url = "mailto:kenneth@schabrechtsk.be"
+
+
+    # TODO: ALL BELOW THIS PART!
+#    # Twitter card support
+#     images = ["images/site-feature-image.png"]
+#
+#     # Form Spree Contact Form
+#     #contactFormAction = "https://formspree.io/f/your-form-hash-here"
