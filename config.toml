@@ -90,3 +90,16 @@ pygmentsCodefencesGuessSyntax = true
 #
 #     # Form Spree Contact Form
 #     #contactFormAction = "https://formspree.io/f/your-form-hash-here"
+
+[menu]
+    [[menu.main]]
+    name = "Home"
+    identifier = "home"
+    weight = 100
+    url = "/"
+
+    [[menu.main]]
+    name = "Archive"
+    weight = 200
+    identifier = "posts"
+    url = "/posts/"
