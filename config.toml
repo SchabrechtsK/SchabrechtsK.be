@@ -27,7 +27,10 @@ pygmentsCodefencesGuessSyntax = true
     profilePicture = "images/profile.png"
     show_reading_time = true
     favicon = "favicons/"
+    # Animations are default shown so turn off here by setting to true
     doNotLoadAnimations = false
+    # Keywords for SEO
+    keywords = "SchabrechtsK, Kenneth Schabrechts, Independent software developer, Technical Lead"
     # Date Formats
     singleDateFormat = "02 Jan 2006"
     indexDateFormat = "02 Jan 2006"
@@ -40,6 +43,8 @@ pygmentsCodefencesGuessSyntax = true
     [math]
     enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
     use = "katex"  # options: "katex", "mathjax". default is "katex".
+    # Google Site Verify
+    googleSiteVerify = "YIVl9Kw1qbS11D80Ga3M_u1nIXrrcy7TCb-m9YjEOs8"
 
     # Socials
     # use 'fab' when brand icons, use 'fas' when standard solid icons.
@@ -80,13 +85,8 @@ pygmentsCodefencesGuessSyntax = true
 
 
     # TODO: ALL BELOW THIS PART!
-#    # Keywords for SEO
-#     keywords = ""
-#
 #    # Twitter card support
 #     images = ["images/site-feature-image.png"]
 #
 #     # Form Spree Contact Form
 #     #contactFormAction = "https://formspree.io/f/your-form-hash-here"
-#     # Google Site Verify
-#     #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
