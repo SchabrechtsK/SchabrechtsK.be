@@ -85,12 +85,6 @@ pygmentsCodefencesGuessSyntax = true
     title = "e-mail"
     url = "mailto:kenneth@schabrechtsk.be"
 
-
-    # TODO: ALL BELOW THIS PART!
-#
-#     # Form Spree Contact Form
-#     #contactFormAction = "https://formspree.io/f/your-form-hash-here"
-
 [menu]
     [[menu.main]]
     name = "Home"
