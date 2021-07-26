@@ -4,8 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2020-01-02T15:08:57+00:00
 url: /personal-development/my-2019-personal-retrospective/
-featured_image: /images/2020/personal-retrospective/hero.jpg
-serie: ["Retrospective"]
 categories:
   - Personal Development
 tags: ['Personal Development', 'Retrospective']

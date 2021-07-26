@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2019-02-03T00:00:00+00:00
 url: /ux-ui/envisioning-a-product-the-kano-model/
-featured_image: /images/2019/kano-model/hero.jpeg
 categories:
   - UX/UI
 tags: ['UI/UX', 'Kano', 'Model', 'Product', 'Vision']

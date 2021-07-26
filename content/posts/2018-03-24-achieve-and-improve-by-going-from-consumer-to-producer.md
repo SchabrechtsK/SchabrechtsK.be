@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2018-03-24T00:00:00+00:00
 url: /personal-development/achieve-and-improve-by-going-from-consumer-to-producer/
-featured_image: /images/2018/consumer-to-producer/hero.jpeg
 categories:
   - Personal Development
 tags: ['Personal Development', 'Consuming', 'Producing', 'Productivity', 'Learning', 'Freelancing', 'Content']

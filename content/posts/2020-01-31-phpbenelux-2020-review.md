@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2020-01-31T13:02:33+00:00
 url: /meetups-conferences/phpbenelux-2020-review/
-featured_image: /images/2020/phpbenelux-2020/hero.jpg
 categories:
   - 'Meetups & Conferences'
 tags: ['Meetups & Conferences', 'Review', 'PHPBenelux', 'Learning', 'Development']

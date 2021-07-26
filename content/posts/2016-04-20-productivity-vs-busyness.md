@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2016-04-20T00:00:00+00:00
 url: /personal-development/productivity-vs-busyness/
-featured_image: /images/2016/productivity-busyness/hero.jpeg
 categories:
   - Personal Development
 tags: ['Personal Development', 'Productivity']

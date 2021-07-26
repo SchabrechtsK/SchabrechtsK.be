@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2016-04-25T00:00:00+00:00
 url: /freelancing/are-our-working-hours-broken/
-featured_image: /images/2016/working-hours/hero.jpeg
 categories:
   - Freelancing
 tags: ['Freelancing', 'Working Hours', 'Productivity']

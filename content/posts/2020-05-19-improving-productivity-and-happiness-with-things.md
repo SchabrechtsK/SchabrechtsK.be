@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2020-05-19
 url: /posts/improving-productivity-and-happiness-with-things/
-featured_image: /images/2020/productivity-things/hero.png
 categories:
   - 'Personal Development'
 tags: ['Personal Development', 'Productivity', 'Happiness', 'Things', 'Tools', 'Review', 'Digital']

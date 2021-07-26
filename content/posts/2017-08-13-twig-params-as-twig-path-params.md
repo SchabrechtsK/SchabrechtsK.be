@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2017-08-13T00:00:00+00:00
 url: /development/twig-params-as-twig-path-params/
-featured_image: /images/2017/twig-params/hero.jpeg
 categories:
   - Development
 tags: ['Development', 'Symfony', 'Twig']

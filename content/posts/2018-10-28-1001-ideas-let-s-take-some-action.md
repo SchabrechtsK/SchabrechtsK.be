@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2018-10-28T00:00:00+00:00
 url: /personal-development/1001-ideas-let-s-take-some-action/
-featured_image: /images/2018/1001-ideas/hero.jpeg
 categories:
   - Personal Development
 tags: ['Personal Development', 'Content', 'Producing', 'Challenge', 'Productivity']

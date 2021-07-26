@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2017-01-19T00:00:00+00:00
 url: /personal-development/using-a-physical-agenda-to-boost-productivity-and-easy-of-mind/
-featured_image: /images/2017/physical-agenda/hero.jpg
 categories:
   - Personal Development
 tags: ['Personal Development', 'Analog', 'Digital', 'Productivity', 'Tools']

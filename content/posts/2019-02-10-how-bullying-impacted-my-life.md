@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2019-02-10T00:00:00+00:00
 url: /personal-development/how-bullying-impacted-my-life/
-featured_image: /images/2019/bullying/hero.jpeg
 categories:
   - Personal Development
 tags: ['Personal Development', 'Bullying', 'Rising Up']

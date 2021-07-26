@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2019-12-21T19:55:23+00:00
 url: /ux-ui/use-case-schabrechtsk-be/
-featured_image: /images/2019/schabrechtsk/hero.png
 categories:
   - UX/UI
 tags: ['UI/UX', 'Research', 'Show Case', 'Personal Brand', 'Branding']

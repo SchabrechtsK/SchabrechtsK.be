@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2016-04-21T00:00:00+00:00
 url: /personal-development/analog-systems-and-the-urge-to-digitize/
-featured_image: /images/2016/analog-systems-digitalize/hero.jpeg
 categories:
   - Personal Development
 tags: ['Personal Development', 'Analog', 'Digital', 'Productivity']

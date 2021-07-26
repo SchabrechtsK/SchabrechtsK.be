@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2013-12-20T19:07:00+00:00
 url: /development/developers-and-their-side-project/
-featured_image: /images/2013/side-project/hero.jpg
 categories:
   - Development
 tags: ['Development', 'Side Projects', 'Learning', 'OSS']

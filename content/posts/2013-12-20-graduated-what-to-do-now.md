@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2013-12-20T00:00:00+00:00
 url: /personal-development/graduated-what-to-do-now/
-featured_image: /images/2013/graduated/hero.jpg
 categories:
   - Personal Development
 tags: ["Personal Development", "Graduated", "Student"]

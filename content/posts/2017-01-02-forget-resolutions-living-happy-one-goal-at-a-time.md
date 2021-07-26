@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2017-01-02T00:00:00+00:00
 url: /personal-development/forget-resolutions-living-happy-one-goal-at-a-time/
-featured_image: /images/2017/one-goal-at-a-time/hero.jpeg
 categories:
   - Personal Development
 tags: ['Personal Development', 'Goals', 'Resolutions', 'Productivity', 'Happiness']

@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2017-02-25T00:00:00+00:00
 url: /meetups-conferences/php-limburg-the-talk-proposal-survey/
-featured_image: /images/2017/php-limburg-survey/hero.png
 categories:
   - 'Meetups & Conferences'
 tags: ['Meetups & Conferences', 'Networking', 'Research']

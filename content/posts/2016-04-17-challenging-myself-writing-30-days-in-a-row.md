@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2016-04-17T00:00:00+00:00
 url: /personal-development/challenging-myself-writing-30-days-in-a-row/
-featured_image: /images/2016/30-day-challenge/hero.jpeg
 categories:
   - Personal Development
 tags: ['Personal Development', 'Writing', 'Challenge']

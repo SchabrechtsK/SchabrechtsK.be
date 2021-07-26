@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2016-04-22T00:00:00+00:00
 url: /personal-development/does-it-have-to-be-perfect/
-featured_image: /images/2016/perfect/hero.jpeg
 categories:
   - Personal Development
 tags: ['Personal Development', 'Perfect', 'Productivity', 'Personal Development']

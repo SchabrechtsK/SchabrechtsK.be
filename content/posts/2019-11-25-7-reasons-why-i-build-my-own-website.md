@@ -5,7 +5,6 @@ type: post
 date: 2019-11-25T19:41:26+00:00
 excerpt: "I had many reasons to start my website. In reality, so do you. Let's go over some of the reasons why I build this site."
 url: /freelancing/7-reasons-why-i-build-my-own-website/
-featured_image: /images/2019/own-website/hero.jpg
 categories:
   - Freelancing
 tags: ['Freelancing', 'Personal Brand', 'Branding', 'Development']

@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2019-12-07T13:12:26+00:00
 url: /announcements/phpbenelux-2020-workshop-user-experience-design-101/
-featured_image: /images/2019/workshop-phpbenelux/hero.jpg
 categories:
   - Announcements
 tags: ['Announcements', 'Public Speaking', 'Workshops', 'UI/UX', 'Meetups & Conferences', 'PHPBenelux']

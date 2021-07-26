@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2016-04-24T00:00:00+00:00
 url: /personal-development/you-failed-so-what/
-featured_image: /images/2016/failed/hero.jpeg
 categories:
   - Personal Development
 tags: ['Personal Development', 'Failure', 'Learning', 'Happiness']

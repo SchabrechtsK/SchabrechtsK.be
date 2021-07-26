@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2017-10-08T00:00:00+00:00
 url: /personal-development/digital-detox-my-own-meandering-experience/
-featured_image: /images/2017/digital-detox/hero.jpeg
 categories:
   - Personal Development
 tags: ['Personal Development', 'Digital', 'Detox', 'Productivity']

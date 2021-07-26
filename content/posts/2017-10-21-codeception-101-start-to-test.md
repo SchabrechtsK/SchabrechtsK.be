@@ -4,7 +4,6 @@ author: Kenneth Schabrechts
 type: post
 date: 2017-10-21T00:00:00+00:00
 url: /development/codeception-101-start-to-test/
-featured_image: /images/2017/codeception/hero.png
 categories:
   - Development
 tags: ['Development', 'Testing', 'Codeception', 'Tools']
