@@ -26,7 +26,7 @@ pygmentsCodefencesGuessSyntax = true
     author = "Kenneth Schabrechts"
     profilePicture = "images/profile.png"
     # Twitter card support
-    images = ["images/profile.png"]
+    images = ["images/site-feature-image.png"]
     show_reading_time = true
     favicon = "favicons/"
     # Animations are default shown so turn off here by setting to true
