@@ -1,0 +1,33 @@
+a {
+    text-decoration: none;
+    color: #9BC31A;
+}
+
+a:hover,
+a:active {
+    color: #9BC31A;
+}
+
+.post .post-footer .meta a:hover {
+    color: #9BC31A;
+}
+
+.post .post-content a {
+    color: #9BC31A;
+}
+
+.post .post-content a:hover {
+    color: #9BC31A;
+}
+
+.list-with-title .listing .listing-post a:hover {
+    color: #9BC31A;
+}
+
+header .nav__list a:hover {
+    color: #9BC31A;
+}
+
+.sidebar .social-links a:hover {
+    color: #9BC31A;
+}
