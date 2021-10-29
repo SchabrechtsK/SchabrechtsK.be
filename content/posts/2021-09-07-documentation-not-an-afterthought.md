@@ -6,6 +6,7 @@ date: 2021-09-07T11:30:00+00:00
 url: /development/documentation-not-an-afterthought/
 categories:
 - Development
+- Productivity
 tags: ['Development', 'Productivity', 'Writing', 'Best Practices', 'Content']
 ---
 

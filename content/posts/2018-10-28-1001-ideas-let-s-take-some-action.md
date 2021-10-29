@@ -6,6 +6,7 @@ date: 2018-10-28T00:00:00+00:00
 url: /personal-development/1001-ideas-let-s-take-some-action/
 categories:
   - Personal Development
+  - Marketing Yourself
 tags: ['Personal Development', 'Content', 'Producing', 'Challenge', 'Productivity']
 summary: 'We all have so many ideas. Time to act upon them.'
 

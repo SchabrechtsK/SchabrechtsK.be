@@ -6,6 +6,7 @@ date: 2016-04-21T00:00:00+00:00
 url: /personal-development/analog-systems-and-the-urge-to-digitize/
 categories:
   - Personal Development
+  - Misc
 tags: ['Personal Development', 'Analog', 'Digital', 'Productivity']
 summary: "Digital platforms, I use them everyday. But the more I use them the more I want to switch to something analog. Why do we go so heavy on the digital transformation?"
 

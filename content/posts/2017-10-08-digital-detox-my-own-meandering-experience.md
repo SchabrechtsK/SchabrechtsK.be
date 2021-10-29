@@ -6,6 +6,7 @@ date: 2017-10-08T00:00:00+00:00
 url: /personal-development/digital-detox-my-own-meandering-experience/
 categories:
   - Personal Development
+  - Productivity
 tags: ['Personal Development', 'Digital', 'Detox', 'Productivity']
 summary: 'As a developer I look at my screen almost continuously. This was burning me out and I needed a break away from technology. So I took a digital detox. In this post I will show you what I did and how it felt.'
 

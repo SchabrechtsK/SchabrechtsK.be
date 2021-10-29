@@ -6,6 +6,7 @@ date: 2016-04-25T00:00:00+00:00
 url: /freelancing/are-our-working-hours-broken/
 categories:
   - Freelancing
+  - Career
 tags: ['Freelancing', 'Working Hours', 'Productivity']
 summary: 'At the moment in Belgium there is a debate whether or not the government should reform the working hours of the employees. What is going and is the system broken? I go deeper into this in this post.'
 

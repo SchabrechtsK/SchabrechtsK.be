@@ -6,6 +6,7 @@ date: 2017-02-25T00:00:00+00:00
 url: /meetups-conferences/php-limburg-the-talk-proposal-survey/
 categories:
   - 'Meetups & Conferences'
+  - Misc
 tags: ['Meetups & Conferences', 'Networking', 'Research']
 summary: 'During our November meetup we noticed that a lot of people really wanted to do a talk. Yet they were unsure wether their subject was good enough or they did not know how to start with speaking. So we did a little survey. This post reveals the results.'
 

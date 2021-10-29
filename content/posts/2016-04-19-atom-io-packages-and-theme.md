@@ -6,6 +6,7 @@ date: 2016-04-19T00:00:00+00:00
 url: /reviews/atom-io-packages-and-theme/
 categories:
   - Reviews
+  - Tech
 tags: ['Development', 'Review', 'Tools', 'Atom']
 summary: 'After my previous post about Atom.io, I want to give you all a list of handy packages and themes'
 

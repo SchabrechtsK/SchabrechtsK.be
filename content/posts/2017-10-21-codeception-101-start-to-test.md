@@ -6,6 +6,7 @@ date: 2017-10-21T00:00:00+00:00
 url: /development/codeception-101-start-to-test/
 categories:
   - Development
+  - Technical
 tags: ['Development', 'Testing', 'Codeception', 'Tools']
 summary: 'Testing our code is so important. But how can you easily manage all those different tests? Introducing Codeception. In this post I will show you how to setup this tool so you can easily test your code.'
 

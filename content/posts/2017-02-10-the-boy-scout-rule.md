@@ -6,6 +6,7 @@ date: 2017-02-10T00:00:00+00:00
 url: /development/the-boy-scout-rule/
 categories:
   - Development
+  - Technical
 tags: ['Development', 'Best Practices', 'Productivity']
 summary: 'Ever worked with legacy code? Then the Boyscout rule is a rule for you. In this post I will tell you how this rule will improve that legacy code.'
 

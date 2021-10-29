@@ -6,6 +6,7 @@ date: 2016-12-04T00:00:00+00:00
 url: /development/how-to-solve-the-install-error-of-virtualbox-on-ubuntu/
 categories:
   - Development
+  - Technical
 tags: ['Development', 'Tools', 'VirtualBox', 'OSS']
 summary: 'I recently changed from Mac to Linux. But my machine gave an install error on VirtualBox. This post will explain how I fixed it.'
 

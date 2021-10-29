@@ -6,6 +6,7 @@ date: 2021-08-28T16:30:00+00:00
 url: /book-review/no-rules-rules/
 categories:
 - Book Review
+- Misc
 tags: ['Book Review', 'Netflix']
 summary: "I recently finished the book No Rules Rules on how Netflix created its exceptional culture. Let’s do a small review."
 ---

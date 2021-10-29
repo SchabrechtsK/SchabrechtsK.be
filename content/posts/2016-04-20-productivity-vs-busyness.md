@@ -6,6 +6,7 @@ date: 2016-04-20T00:00:00+00:00
 url: /personal-development/productivity-vs-busyness/
 categories:
   - Personal Development
+  - Productivity
 tags: ['Personal Development', 'Productivity']
 summary: "Did a lot of work but you don't feel productive? Maybe you were just acting busy. Check out the difference in this post."
 

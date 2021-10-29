@@ -6,6 +6,7 @@ date: 2016-04-17T00:00:00+00:00
 url: /personal-development/challenging-myself-writing-30-days-in-a-row/
 categories:
   - Personal Development
+  - Misc
 tags: ['Personal Development', 'Writing', 'Challenge']
 summary: 'I have always found writing posts to be difficult. So I have taken up a challenge. Which one and what does it mean? Read the post to learn more.'
 

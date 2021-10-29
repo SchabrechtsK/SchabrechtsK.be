@@ -6,6 +6,7 @@ date: 2019-02-10T00:00:00+00:00
 url: /personal-development/how-bullying-impacted-my-life/
 categories:
   - Personal Development
+  - Motivational
 tags: ['Personal Development', 'Bullying', 'Rising Up']
 summary: 'When I was younger I got bullied, badly. In this very personal post I delve deeper into my past to show you how it changed me and how I try to deal with that.'
 

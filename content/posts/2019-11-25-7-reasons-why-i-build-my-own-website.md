@@ -7,6 +7,8 @@ excerpt: "I had many reasons to start my website. In reality, so do you. Let's g
 url: /freelancing/7-reasons-why-i-build-my-own-website/
 categories:
   - Freelancing
+  - Marketing Yourself
+  - Career
 tags: ['Freelancing', 'Personal Brand', 'Branding', 'Development']
 summary: 'I opted for creating my own website. Not owned by any platform like Medium, dev.to. In this post I explain why I did this and why you should too.'
 

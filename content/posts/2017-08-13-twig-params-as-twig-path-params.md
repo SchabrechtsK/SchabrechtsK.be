@@ -6,6 +6,7 @@ date: 2017-08-13T00:00:00+00:00
 url: /development/twig-params-as-twig-path-params/
 categories:
   - Development
+  - Technical
 tags: ['Development', 'Symfony', 'Twig']
 summary: 'For our project we wanted to create a Base CrudController. One to be reused by all the CRUD controllers. One missing piece of the puzzle was how to pass the correct entity in the path. In this post I will show you how we do this with Twig.'
 

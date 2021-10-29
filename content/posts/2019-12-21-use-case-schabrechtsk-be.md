@@ -6,6 +6,7 @@ date: 2019-12-21T19:55:23+00:00
 url: /ux-ui/use-case-schabrechtsk-be/
 categories:
   - UX/UI
+  - Misc
 tags: ['UI/UX', 'Research', 'Show Case', 'Personal Brand', 'Branding']
 summary: 'To build this site I used my User Experience Design training to determine what I exactly needed to build. This post is a summary of that research document.'
 

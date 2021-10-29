@@ -6,6 +6,8 @@ date: 2013-12-20T19:07:00+00:00
 url: /development/developers-and-their-side-project/
 categories:
   - Development
+  - Career
+  - Marketing Yourself
 tags: ['Development', 'Side Projects', 'Learning', 'OSS']
 summary: "A lot of developers have side-projects. In this post I'll show you why you should have your own as well."
 

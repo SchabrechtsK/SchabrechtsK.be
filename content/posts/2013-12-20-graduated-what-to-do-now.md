@@ -6,6 +6,7 @@ date: 2013-12-20T00:00:00+00:00
 url: /personal-development/graduated-what-to-do-now/
 categories:
   - Personal Development
+  - Career
 tags: ["Personal Development", "Graduated", "Student"]
 summary: 'Congratulations, you just graduated, what a great feeling. But what is next? In this post I will describe some actions that you can do to start taking on the world.'
 

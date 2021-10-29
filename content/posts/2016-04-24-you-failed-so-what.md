@@ -6,6 +6,7 @@ date: 2016-04-24T00:00:00+00:00
 url: /personal-development/you-failed-so-what/
 categories:
   - Personal Development
+  - Motivational
 tags: ['Personal Development', 'Failure', 'Learning', 'Happiness']
 summary: 'Failure, it happens all the time. Yesterday I failed again.'
 

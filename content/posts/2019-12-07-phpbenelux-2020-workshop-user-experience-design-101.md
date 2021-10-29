@@ -6,6 +6,8 @@ date: 2019-12-07T13:12:26+00:00
 url: /announcements/phpbenelux-2020-workshop-user-experience-design-101/
 categories:
   - Announcements
+  - Misc
+  - Career
 tags: ['Announcements', 'Public Speaking', 'Workshops', 'UI/UX', 'Meetups & Conferences', 'PHPBenelux']
 summary: "I'm delighted to announce that I will be giving a workshop on User Experience Design at PHPBenelux 2020."
 

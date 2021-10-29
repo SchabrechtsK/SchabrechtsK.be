@@ -5,7 +5,8 @@ type: post
 date: 2021-01-04T20:05:00+00:00
 url: /personal-development/my-2020-personal-retrospective/
 categories:
-    - Personal Development
+- Personal Development
+- Career
 tags: ['Personal Development', 'Retrospective']
 summary: "2020 has passed, what a crazy year! Now, everyone has high expectations of 2021. Let's do a small retrospective. Look at what has passed, what we can learn from it and what the future might bring!"
 
