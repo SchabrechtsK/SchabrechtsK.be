@@ -9,7 +9,7 @@ categories:
   - Technical
 tags: ['Development', 'Best Practices', 'Productivity']
 summary: 'Ever worked with legacy code? Then the Boyscout rule is a rule for you. In this post I will tell you how this rule will improve that legacy code.'
-
+old_content_duration: 0
 ---
 A few weeks back I was at another great edition of the PHPBenelux Conference. And one of the topics that always has a speaker is the one about legacy code. It is just something most of us have to deal with.
 

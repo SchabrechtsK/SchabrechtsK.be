@@ -9,7 +9,7 @@ categories:
   - Misc
 tags: ['Personal Development', 'Analog', 'Digital', 'Productivity']
 summary: "Digital platforms, I use them everyday. But the more I use them the more I want to switch to something analog. Why do we go so heavy on the digital transformation?"
-
+old_content_duration: 0
 ---
   As you might, or might not, know I’m currently active as a consultant in the IT sector. Because of this I work almost exclusively on digital platforms. With one exception, I keep most of my to do's in a notebook. The reason for this is because I, honestly, like to scratch those to do's. It’s a pure mental thing.
 

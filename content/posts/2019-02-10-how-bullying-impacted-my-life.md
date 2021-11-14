@@ -9,7 +9,7 @@ categories:
   - Motivational
 tags: ['Personal Development', 'Bullying', 'Rising Up']
 summary: 'When I was younger I got bullied, badly. In this very personal post I delve deeper into my past to show you how it changed me and how I try to deal with that.'
-
+old_content_duration: 0
 ---
 *Disclaimer: This is a very personal blog post. It is about being a victim of bullying, coping with those circumstances and how it can affect a person.*
 

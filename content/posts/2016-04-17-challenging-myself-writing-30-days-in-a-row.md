@@ -9,7 +9,7 @@ categories:
   - Misc
 tags: ['Personal Development', 'Writing', 'Challenge']
 summary: 'I have always found writing posts to be difficult. So I have taken up a challenge. Which one and what does it mean? Read the post to learn more.'
-
+old_content_duration: 0
 ---
 I’ve always wanted to write more blog posts. But writing seems to be one of the harder hobbies to start and persist in in comparison to most of my other hobbies.
 

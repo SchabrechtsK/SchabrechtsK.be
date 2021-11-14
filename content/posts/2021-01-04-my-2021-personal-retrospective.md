@@ -9,7 +9,7 @@ categories:
 - Career
 tags: ['Personal Development', 'Retrospective']
 summary: "2020 has passed, what a crazy year! Now, everyone has high expectations of 2021. Let's do a small retrospective. Look at what has passed, what we can learn from it and what the future might bring!"
-
+old_content_duration: 0
 ---
 
 A new year, a new recap! But, just like last year, we're going to do it a bit differently.  

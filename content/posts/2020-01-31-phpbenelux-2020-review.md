@@ -9,7 +9,7 @@ categories:
   - Misc
 tags: ['Meetups & Conferences', 'Review', 'PHPBenelux', 'Learning', 'Development']
 summary: 'Another year, another PHPBenelux. This year, on the 24th and the 25th of January, it was the 11th edition. In this post I look back on what was another fun edition of this conference!'
-
+old_content_duration: 0
 ---
 Another year, another PHPBenelux. This year, on the 24th and the 25th of January, it was the 11th edition. 
 

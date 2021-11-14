@@ -9,7 +9,7 @@ categories:
   - Career
 tags: ["Personal Development", "Graduated", "Student"]
 summary: 'Congratulations, you just graduated, what a great feeling. But what is next? In this post I will describe some actions that you can do to start taking on the world.'
-
+old_content_duration: 0
 ---
 Graduating, what a great feeling. You know all the basics. They have handed you all the skills and know-how to survive in the world. In other words, you are ready to take on the world. 
 

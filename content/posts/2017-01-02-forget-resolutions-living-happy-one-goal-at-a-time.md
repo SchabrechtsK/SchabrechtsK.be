@@ -9,7 +9,7 @@ categories:
   - Productivity
 tags: ['Personal Development', 'Goals', 'Resolutions', 'Productivity', 'Happiness']
 summary: 'A new year, a new set of resolutions. But are resolutions the correct way? I believe we should goals. In this post I explain why and how you can set your own goals.'
-
+old_content_duration: 0
 ---
 ## Resolutions
 

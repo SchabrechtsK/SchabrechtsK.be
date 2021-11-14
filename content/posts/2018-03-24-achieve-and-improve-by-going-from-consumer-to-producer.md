@@ -9,7 +9,7 @@ categories:
   - Productivity
 tags: ['Personal Development', 'Consuming', 'Producing', 'Productivity', 'Learning', 'Freelancing', 'Content']
 summary: "Consumer vs Producer. I filled in a small survey and came to a conclusion. In the first place, I'm a consumer. But is that what I want to be? I dig deeper into this in this post."
-
+old_content_duration: 0
 ---
 Last wednesday I woke up and saw the following on my instagram through the [Gary Vaynerchuk](https://www.instagram.com/garyvee "Gary Vaynerchuk Instagram Page") stories:
 

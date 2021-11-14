@@ -9,7 +9,7 @@ categories:
   - Productivity
 tags: ['Personal Development', 'Digital', 'Detox', 'Productivity']
 summary: 'As a developer I look at my screen almost continuously. This was burning me out and I needed a break away from technology. So I took a digital detox. In this post I will show you what I did and how it felt.'
-
+old_content_duration: 0
 ---
 If you look at my profile you will see I’m pretty immersed into technology. As a developer it’s hard not to be.
 

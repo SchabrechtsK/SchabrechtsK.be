@@ -9,7 +9,7 @@ categories:
   - Marketing Yourself
 tags: ['Personal Development', 'Content', 'Producing', 'Challenge', 'Productivity']
 summary: 'We all have so many ideas. Time to act upon them.'
-
+old_content_duration: 0
 ---
 A 1001 ideas, things we want to do. Milestones we want to achieve.  
 Tucked away in the back of your mind. Placed there due to fear. Fear of what might be or fear of what others might think.

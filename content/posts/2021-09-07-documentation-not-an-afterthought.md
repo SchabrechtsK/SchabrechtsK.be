@@ -8,6 +8,7 @@ categories:
 - Development
 - Productivity
 tags: ['Development', 'Productivity', 'Writing', 'Best Practices', 'Content']
+old_content_duration: 0
 ---
 
 Documentation, we love it when it’s there, we hate it when it’s not.

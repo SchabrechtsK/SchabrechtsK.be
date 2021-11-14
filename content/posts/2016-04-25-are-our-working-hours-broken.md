@@ -9,7 +9,7 @@ categories:
   - Career
 tags: ['Freelancing', 'Working Hours', 'Productivity']
 summary: 'At the moment in Belgium there is a debate whether or not the government should reform the working hours of the employees. What is going and is the system broken? I go deeper into this in this post.'
-
+old_content_duration: 0
 ---
 At the moment in Belgium there is a debate whether or not the government should reform the working hours of the employees.  
 Currently we either have a 38 hour week or a 40 hour week, depending on your contract with your employer.  

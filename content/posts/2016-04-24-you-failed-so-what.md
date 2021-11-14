@@ -9,7 +9,7 @@ categories:
   - Motivational
 tags: ['Personal Development', 'Failure', 'Learning', 'Happiness']
 summary: 'Failure, it happens all the time. Yesterday I failed again.'
-
+old_content_duration: 0
 ---
 Yesterday I had a failure. I did not make a blog post even though I’m currently going through the 30 day challenge.
 

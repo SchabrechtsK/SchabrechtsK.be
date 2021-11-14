@@ -9,7 +9,7 @@ categories:
   - Productivity
 tags: ['Personal Development', 'Analog', 'Digital', 'Productivity', 'Tools']
 summary: 'I caught myself moving more and more to digital systems again. So I started using an analog planner. In this post I go deeper into this.'
-
+old_content_duration: 0
 ---
 At the start of the year I looked back at [my digitalization post]({{< ref "2016-04-21-analog-systems-and-the-urge-to-digitize.md" >}} "Analog systems and the urge to digitize") and realized that I have fallen into the same old trap. Most of my day to day is currently digitalized. Some for better, some for worse.
 

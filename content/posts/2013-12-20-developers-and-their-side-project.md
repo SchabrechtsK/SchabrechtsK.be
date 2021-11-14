@@ -10,7 +10,7 @@ categories:
   - Marketing Yourself
 tags: ['Development', 'Side Projects', 'Learning', 'OSS']
 summary: "A lot of developers have side-projects. In this post I'll show you why you should have your own as well."
-
+old_content_duration: 0
 ---
 Side-projects, they have always been a point of discussion amongst developers. To have one or not to have one.
 

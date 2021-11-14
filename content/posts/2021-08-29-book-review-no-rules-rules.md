@@ -9,6 +9,7 @@ categories:
 - Misc
 tags: ['Book Review', 'Netflix']
 summary: "I recently finished the book No Rules Rules on how Netflix created its exceptional culture. Let’s do a small review."
+old_content_duration: 0
 ---
 
 I recently finished the book No Rules Rules on how Netflix created its exceptional culture.  

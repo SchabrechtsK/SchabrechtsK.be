@@ -11,7 +11,7 @@ categories:
   - Career
 tags: ['Freelancing', 'Personal Brand', 'Branding', 'Development']
 summary: 'I opted for creating my own website. Not owned by any platform like Medium, dev.to. In this post I explain why I did this and why you should too.'
-
+old_content_duration: 0
 ---
 First of all welcome to my website! At this point, it's just a blog and a reference to the vlog. But in the future, I hope to add some more pages that will represent who I am, what I do and where I will speak.
 

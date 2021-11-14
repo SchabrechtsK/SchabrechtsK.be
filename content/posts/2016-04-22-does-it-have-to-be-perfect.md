@@ -9,7 +9,7 @@ categories:
   - Motivational
 tags: ['Personal Development', 'Perfect', 'Productivity', 'Personal Development']
 summary: 'Perfect, some us put everything on hold waiting for it to be perfect. But will that ever come?'
-
+old_content_duration: 0
 ---
 > It needs to be the perfect time.
 
