@@ -8,6 +8,8 @@ categories:
   - Reviews
   - Tech
 tags: ['Development', 'Review', 'Tools', 'Atom']
+series: 
+  - 'Atom'
 summary: 'After my previous post about Atom.io, I want to give you all a list of handy packages and themes'
 
 ---

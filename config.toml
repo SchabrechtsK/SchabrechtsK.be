@@ -46,10 +46,6 @@ pygmentsCodefencesGuessSyntax = true
     # Old Content Warning
     oldContentWarning = true
     oldContentDuration = 365
-    ## Math settings
-    [math]
-    enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
-    use = "katex"  # options: "katex", "mathjax". default is "katex".
     # Google Site Verify
     googleSiteVerify = "YIVl9Kw1qbS11D80Ga3M_u1nIXrrcy7TCb-m9YjEOs8"
 
@@ -102,3 +98,8 @@ pygmentsCodefencesGuessSyntax = true
     weight = 200
     identifier = "posts"
     url = "/posts/"
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"

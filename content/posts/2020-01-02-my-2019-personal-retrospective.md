@@ -8,6 +8,8 @@ categories:
   - Personal Development
   - Career
 tags: ['Personal Development', 'Retrospective']
+series:
+  - 'Personal Retrospective'
 summary: "Around this time I always see a lot of people creating new posts about their previous year. In my quest for creating more content, I wanted to create that kind of post as well. But I wanted it to be different. So I'm doing a 2019 personal retrospective."
 old_content_duration: 0
 ---
