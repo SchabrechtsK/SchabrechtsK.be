@@ -64,9 +64,7 @@ If you want to do a retrospective as well there are 3 questions to answer:
 
 If you do, and you make it public, feel free to tweet [Jason](https://twitter.com/jlengstorf "Jason Lengstorf Twitter") and [me](https://twitter.com/schabrechtsk "SchabrechtsK Twitter") to let us know. Over on [Jason his post](https://lengstorf.com/2019-personal-retrospective/ "Jason Lengstorf Retrospective"), there's also a link to a supportive community to bounce ideas off.
 
-Happy retrospective!
-
-Always loved,
-Never forgotten...
-Forever missed
+Always loved,  
+Never forgotten...  
+Forever missed  
 Lily-Rose ⭐
