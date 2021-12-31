@@ -42,7 +42,7 @@ She wasn't breathing when she was born and thus our room quickly filled with dif
 With the quick actions of the medical team she was reanimated successfully but no one could tell us the extension of the damage that occurred.
 The medical team of the Antwerp University Hospital took over and decided to move our Lily-Rose to their specialized department.
 7 Days we spent in between hope and despair, until they brought us the devastating news. She had sustained so much brain damage that all doctors agreed, this was too much damage to live with.
-We got some extra time to say our goodbyes and let the people closest to us also come by. On the 6th of October at 00:06 she left this world, but never our hearts.
+We got some extra time to say our goodbyes and let the people closest to us also visit. On the 6th of October at 00:06 she left this world, but never our hearts.
 
 I'm thankful for the moments we had with her, for all the support we got and the understanding of our work.
 
@@ -68,5 +68,5 @@ Happy retrospective!
 
 Always loved,
 Never forgotten...
-Forever missed  
+Forever missed
 Lily-Rose ⭐
